@@ -1,0 +1,15 @@
+[
+  {
+    "model": "service.Schedule",
+    "pk": "1001",
+    "fields": {
+        "therapist": "1001",
+        "days": [1, 3],
+        "start_time": "11:00",
+        "end_time": "16:00",
+        "valid_from": "2022-09-09",
+        "valid_to": "2022-10-09",
+        "force_create": true
+    }
+  }
+]

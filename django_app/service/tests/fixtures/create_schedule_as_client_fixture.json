@@ -1,0 +1,13 @@
+[
+    {
+        "days": [
+            4
+        ],
+        "therapist": 1004,
+        "start_time": "10:00",
+        "end_time": "17:00",
+        "valid_from": "2022-09-09",
+        "valid_to": "2022-10-09",
+        "force_create": true
+    }
+]

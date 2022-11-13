@@ -1,0 +1,70 @@
+[
+    {
+        "model": "users.User",
+        "pk": "1001",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$zChYapqPL2yP7cynuxLgZu$kaOSUfTwQnJnEFBsjMt/kxUyz/HNR27DbRSZh+8J08Y=",
+            "last_login": "2022-05-06 21:36:33.090145 +00:00",
+            "is_superuser": "True",
+            "username": "admin",
+            "first_name": "",
+            "last_name": "",
+            "email": "admin@email.com",
+            "is_staff": "True",
+            "is_active": "True",
+            "date_joined": "2022-05-01 09:11:43.922664 +00:00",
+            "profile_photo": null
+        }
+    },
+    {
+        "model": "users.User",
+        "pk": "1002",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$BFtwdY7tVit9PY8TG3nbqk$hIAP3NGpuQNY+KTxmRuS+ineju2vzY0x4/1JMdwgSms=",
+            "last_login": "2022-05-06 21:36:33.090145 +00:00",
+            "is_superuser": "False",
+            "username": "therapist_1",
+            "first_name": "therapist_1_name",
+            "last_name": "therapist_1_surname",
+            "email": "therapist_1@therapist_1.com",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-05-21 15:39:55.000000 +00:00",
+            "profile_photo": null
+        }
+    },
+    {
+        "model": "users.User",
+        "pk": "1003",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$BFtwdY7tVit9PY8TG3nbqk$hIAP3NGpuQNY+KTxmRuS+ineju2vzY0x4/1JMdwgSms=",
+            "last_login": "2022-05-06 21:36:33.090145 +00:00",
+            "is_superuser": "False",
+            "username": "therapist_2",
+            "first_name": "therapist_2_name",
+            "last_name": "therapist_2_surname",
+            "email": "therapist_2@therapist_2.com",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-05-21 15:39:55.000000 +00:00",
+            "profile_photo": null
+        }
+    },
+    {
+        "model": "users.User",
+        "pk": "1004",
+        "fields": {
+            "password": "pbkdf2_sha256$320000$BFtwdY7tVit9PY8TG3nbqk$hIAP3NGpuQNY+KTxmRuS+ineju2vzY0x4/1JMdwgSms=",
+            "last_login": "2022-05-06 21:36:33.090145 +00:00",
+            "is_superuser": "False",
+            "username": "client",
+            "first_name": "client_name",
+            "last_name": "client_surname",
+            "email": "client@client.com",
+            "is_staff": "False",
+            "is_active": "True",
+            "date_joined": "2022-05-21 15:39:55.000000 +00:00",
+            "profile_photo": null
+        }
+    }
+]
